@@ -1,6 +1,6 @@
-# Casper
+# Aperi
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+The Apericore Limted Ghost theme for the company blog. Currently a copy of the default Casper theme for [Ghost](http://github.com/tryghost/ghost/) with some modifications.
 
 ## Copyright & License
 
